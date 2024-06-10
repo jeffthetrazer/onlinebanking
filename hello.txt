@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello wipro
 how is the team
 good to be here
+=======
+hello wipro
+>>>>>>> 3d0ffa81835b7fbe64818ab343fbe0dc9d91608a
